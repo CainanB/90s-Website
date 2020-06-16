@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+#tvbody{
+    background-image: url("../images/carltondance.gif"), url("../images/freshwill.webp");
+    background-color: black;
+    /* background-size: cover; */
+}
+#homeBody{
+    background-image: url("../images/floppy.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#musicBody{
+    background-image: url("../images/cassette.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#techBody{
+    background-image: url("../images/aol.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 2rem;
+    font-weight: bold;
+}
+p{
+    color: red;
+}
+nav a{
+    color: red;
+}
+nav{
+    color: red;
+}
+nav a:hover{
+    color: black;
+}
+
